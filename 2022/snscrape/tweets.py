@@ -1,7 +1,7 @@
 import snscrape.modules.twitter as sntwitter
 import pandas as pd
 
-query = "(from:elonmusk) until:2020-01-01 since:2010-01-01"
+query = "CRISPR "CRISPR" lang:en until:2023-07-01 since:2021-01-01 -filter:replies"
 tweets = []
 limit = 5000
 
